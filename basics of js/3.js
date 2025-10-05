@@ -11,3 +11,7 @@ console.log(a);
 
 let c = "hello";
 console.log(c);
+
+const d = "hiiii";
+// d = "bye";           //gives error when i remove comment
+console.log(d);
